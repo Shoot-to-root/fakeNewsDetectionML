@@ -32,7 +32,7 @@ In this stage, the training sets are being fed into count_vectorizer and TF_IDF_
 ## **Modeling (classifier.py)**
 I'm curious which classification algorithm works better in such case, so using the baseline datasets, I tested it on 8 classifiers scikit-learn has to offer: Naïve Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest, Gradient Boosting Tree, Stochastic Gradient Descent (SGD), and a Multi-layer Perceptron classifier. The results are shown as below:
 
-![alt text](C:\Users\sone_\Desktop\Project,Paper-related\result.png "result")
+![result](C:\Users\sone_\Desktop\Project,Paper-related\result.png "result")
 
 The application is hosted on [sushi.pythonanywhere.com](http://sushi.pythonanywhere.com). Feel free to try it out!
 
